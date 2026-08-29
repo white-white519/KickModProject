@@ -1,0 +1,9 @@
+{
+  "key.category.kickmod": "KickMod",
+  "key.kickmod.kick": "Выбить дверь",
+  "item.kickmod.hammer": "Ключ-молоток",
+  "item.kickmod.hammer.tooltip1": "§7ПКМ по двери/люку/стеклу:",
+  "item.kickmod.hammer.tooltip2": "§7- Защитить блок (не выбивается)",
+  "item.kickmod.hammer.tooltip3": "§6§oТратит прочность при установке защиты",
+  "item.kickmod.hammer.tooltip4": "§a§oПКМ по защищённому блоку — снять защиту"
+}

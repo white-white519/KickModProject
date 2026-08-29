@@ -1,0 +1,9 @@
+{
+  "key.category.kickmod": "KickMod",
+  "key.kickmod.kick": "Kick Door",
+  "item.kickmod.hammer": "Key-Hammer",
+  "item.kickmod.hammer.tooltip1": "§7Right-click on door/trapdoor/glass:",
+  "item.kickmod.hammer.tooltip2": "§7- Protect block (cannot be kicked)",
+  "item.kickmod.hammer.tooltip3": "§6§oConsumes durability when applying protection",
+  "item.kickmod.hammer.tooltip4": "§a§oRight-click on protected block to remove protection"
+}

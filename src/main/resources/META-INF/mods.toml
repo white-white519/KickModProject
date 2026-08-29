@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="kickmod"
+version="1.0"
+displayName="KickMod"
+description="Kick doors and break blocks!"
+authors="hite"
+
+[[dependencies.kickmod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.kickmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.kickmod]]
+modId="geckolib"
+mandatory=true
+versionRange="[4.7.3,)"
+ordering="NONE"
+side="CLIENT"
